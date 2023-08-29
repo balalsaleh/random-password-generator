@@ -35,4 +35,5 @@ Using the starter code to create a random password generator we were given some 
 
 ![password generated image](./images/generatedPassword.png)
 
-Deployed Link:
+Deployed Link: https://balalsaleh.github.io/random-password-generator/
+GitHub Repo: https://github.com/balalsaleh/random-password-generator
